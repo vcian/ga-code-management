@@ -16,9 +16,9 @@ A simple and straightforward solution for viewing Google Analytics for your site
 <br>
 Plugin Functionality: 
 <ul> 
-<ol> Easy setup from backend</ol>
-<ol>  User-friendly Settings Interface</ol>
-<ol>  Get your analytics tracking code following below steps:</ol>
+<li> Easy setup from backend</li>
+<li>  User-friendly Settings Interface</li>
+<li>  Get your analytics tracking code following below steps:</li>
 <ul><li> Sign up or Login for Google Analytics</li>
 <li> Copy your tracking ID </li>
 <li> Paste your tracking ID in Google Analytics Code Settings</li>
